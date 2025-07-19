@@ -1,1 +1,1 @@
-"Edited in feature1 branch" 
+Resolved version from both branches
