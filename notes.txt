@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 "Line A modified in alpha branch" 
+=======
+"Line A modified in beta branch" 
+>>>>>>> beta
